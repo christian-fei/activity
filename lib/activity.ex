@@ -1,0 +1,2 @@
+defmodule Activity do
+end
